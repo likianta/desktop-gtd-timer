@@ -1,0 +1,7 @@
+/* global font management */
+
+QMainWindow {
+    font-family: "Microsoft YaHei UI";
+    background-color: "white";
+    border-radius: 8;
+}

@@ -1,0 +1,17 @@
+
+
+    def _init_ui(self):
+        # === create views ===
+        pass
+
+        # === bind signals ===
+        pass
+
+        # === decorate views ===
+        pass
+
+        # === orgnize views ===
+        pass
+
+        # === show views ===
+        self.show()

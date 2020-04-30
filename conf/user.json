@@ -1,0 +1,6 @@
+{
+    "timer_items": null,
+    "_timer_items": "可选值有 null, 或自定义的列表. 默认 null, 表示加载 preset items.",
+    "clocking_items": [],
+    "_clocking_items": "初始化的 clocking_items. 预设是空列表."
+}
